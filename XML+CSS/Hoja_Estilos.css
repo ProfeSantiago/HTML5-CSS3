@@ -1,0 +1,25 @@
+Capitan {display:block; margin:10px;
+	 font-family: Tahoma, Arial, sans-serif;
+	 color: darkgray;
+	 font-size: 12pt;
+	 font-weight: bold }
+
+Nombre {display:inline;
+	 font-family: Tahoma, Arial, sans-serif;
+	 color: green;
+	 font-size: 12pt;
+	 font-weight: bold }
+
+Nave {display:inline;margin:10px;
+	 font-family: Tahoma, Arial, sans-serif;
+	 color: red;
+	 font-size: 12pt;
+       font-weight: normal }
+
+Siglo {display:inline;margin:10px;
+             font-family: Tahoma, Arial, sans-serif; 
+             color: purple;
+              font-size: 12pt;
+              font-weight: bold }
+
+

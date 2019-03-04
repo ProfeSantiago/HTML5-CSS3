@@ -1,0 +1,14 @@
+
+section
+{
+    float: left;
+	width: 60%;
+	margin-right: 5px auto;
+}
+
+footer {
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+

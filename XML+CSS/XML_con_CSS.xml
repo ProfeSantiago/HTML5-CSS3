@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="Hoja_Estilos.css"?>
+<StarTrek>
+<Capitan>
+    <Nombre>Johnathan Archer</Nombre>
+     <Nave>Enterprise NX-01</Nave>
+     <Siglo>Siglo 22</Siglo>
+</Capitan>
+<Capitan>
+     <Nombre>IKaru Sulu</Nombre>
+     <Nave>Excelsior NCC-2000</Nave>
+     <Siglo>Siglo 23</Siglo>
+</Capitan>
+<Capitan>
+      <Nombre>James T. Kirk</Nombre>
+     <Nave>Enterprise NCC-1701 A</Nave>
+     <Siglo>Siglo 23</Siglo>
+</Capitan>
+<Capitan>
+     <Nombre>Jean Luc Picard</Nombre>
+     <Nave>Enterprise NCC-1701 E</Nave>
+     <Siglo>Siglo 24</Siglo>
+</Capitan>
+<Capitan>
+      <Nombre>Benjamin Cisco</Nombre>
+     <Nave>Defiant NX-74205</Nave>
+     <Siglo>Siglo 24</Siglo>
+</Capitan>
+<Capitan>
+     <Nombre>Katherine Jeanway</Nombre>
+     <Nave>Voyager NCC-74656</Nave>
+     <Siglo>Siglo 24</Siglo>
+  </Capitan>
+</StarTrek>
